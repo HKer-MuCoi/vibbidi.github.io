@@ -153,7 +153,7 @@ const App = () => {
   return (
     React.createElement(Fragment, null,
     React.createElement("div", { className: "bear__wrap" },
-    React.createElement("div", { ref: swearRef, className: "bear__swear" }, "Năm sau anh tăng cho"),
+    React.createElement("div", { ref: swearRef, className: "bear__swear" }, "Năm sau anh tăng lương cho"),
 
 
     React.createElement("svg", {
